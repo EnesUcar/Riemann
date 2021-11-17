@@ -1,0 +1,16 @@
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\bin\Debug\net5.0\Riemann.exe
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\bin\Debug\net5.0\Riemann.deps.json
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\bin\Debug\net5.0\Riemann.runtimeconfig.json
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\bin\Debug\net5.0\Riemann.runtimeconfig.dev.json
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\bin\Debug\net5.0\Riemann.dll
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\bin\Debug\net5.0\ref\Riemann.dll
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\bin\Debug\net5.0\Riemann.pdb
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\obj\Debug\net5.0\Riemann.csproj.AssemblyReference.cache
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\obj\Debug\net5.0\Riemann.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\obj\Debug\net5.0\Riemann.AssemblyInfoInputs.cache
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\obj\Debug\net5.0\Riemann.AssemblyInfo.cs
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\obj\Debug\net5.0\Riemann.csproj.CoreCompileInputs.cache
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\obj\Debug\net5.0\Riemann.dll
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\obj\Debug\net5.0\ref\Riemann.dll
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\obj\Debug\net5.0\Riemann.pdb
+C:\Users\ayvansaray\Desktop\Riemann\Riemann\obj\Debug\net5.0\Riemann.genruntimeconfig.cache
